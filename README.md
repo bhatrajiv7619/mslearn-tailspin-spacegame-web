@@ -29,3 +29,5 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+[![Build Status](https://dev.azure.com/rajivbhat/Tailspin/_apis/build/status/bhatrajiv7619.mslearn-tailspin-spacegame-web?branchName=failed-test)](https://dev.azure.com/rajivbhat/Tailspin/_build/latest?definitionId=6&branchName=failed-test)
