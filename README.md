@@ -29,3 +29,9 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+[![Board Status](https://dev.azure.com/rajivbhat/a704f70c-9409-4d6f-8a9c-69c1b1f3ad3d/d7684f93-587b-40b5-817c-102195e35085/_apis/work/boardbadge/a299928c-c011-47a0-afdc-7ab89cad225f?columnOptions=1)](https://dev.azure.com/rajivbhat/a704f70c-9409-4d6f-8a9c-69c1b1f3ad3d/_boards/board/t/d7684f93-587b-40b5-817c-102195e35085/Microsoft.RequirementCategory/)
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=bhatrajiv7619_mslearn-tailspin-spacegame-web)](https://sonarcloud.io/dashboard?id=bhatrajiv7619_mslearn-tailspin-spacegame-web)
+
+[![Build Status](https://dev.azure.com/rajivbhat/Tailspin/_apis/build/status/bhatrajiv7619.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/rajivbhat/Tailspin/_build/latest?definitionId=6&branchName=master)
